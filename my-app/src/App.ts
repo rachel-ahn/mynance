@@ -3,7 +3,7 @@
 
 import { useState } from 'react';
 import ReactDOM from 'react-dom/client';
-
+// test
 function InputSpending() {
   const [inputs, setInputs] = useState({});
 
